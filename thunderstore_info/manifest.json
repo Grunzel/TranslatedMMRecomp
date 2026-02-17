@@ -1,0 +1,9 @@
+{
+    "name": "MM_PAL_Translation",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/Grunzel/TranslatedMMRecomp/tree/main",
+    "description": "PAL Translation for Zelda64Recompiled.",
+    "dependencies": [
+        "LT_Schmiddy-EZ_Text_Replacer_API-2.3.0"
+    ]
+}
